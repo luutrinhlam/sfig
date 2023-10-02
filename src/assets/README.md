@@ -1,0 +1,1 @@
+## Contains things like images, svgs,.. or any type of assets that you want to import to your application that is not actual Javascript code
